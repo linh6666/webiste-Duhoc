@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+duhocsmartway.vn	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/wp-admin	FALSE	1999999999	wordpress_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	_lscache_vary	62f4ef837289794fc6fa231bd72719d0
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wordpress_logged_in_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wp-settings-0	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wp-settings-time-0	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wordpress_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wordpress_sec_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wordpressuser_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wordpresspass_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wp-postpass_5932c6aeed5c3769bed43c66e1147f47	%20
+duhocsmartway.vn	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

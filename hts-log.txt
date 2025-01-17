@@ -1,0 +1,239 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 Jan 2025 20:38:08 at https://duhocsmartway.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://duhocsmartway.vn/ -O1 "\abc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:38:48	Error: 	"Method Not Allowed" (405) at link https://duhocsmartway.vn/xmlrpc.php (from https://duhocsmartway.vn/)
+20:38:48	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/feed/ (from https://duhocsmartway.vn/)
+20:38:48	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/comments/feed/ (from https://duhocsmartway.vn/)
+20:38:48	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/trang-chu/feed/ (from https://duhocsmartway.vn/)
+20:38:53	Warning: 	Moved Permanently for duhocsmartway.vn/?wordfence_lh=1&hid=26D4F1790E633F8AE3E3370872B6B6F1
+20:38:53	Warning: 	Redirected link is identical because of 'URL Hack' option: duhocsmartway.vn/?wordfence_lh=1&hid=26D4F1790E633F8AE3E3370872B6B6F1 and https://duhocsmartway.vn/?wordfence_lh=1&hid=26D4F1790E633F8AE3E3370872B6B6F1
+20:38:53	Warning: 	File has moved from duhocsmartway.vn/?wordfence_lh=1&hid=26D4F1790E633F8AE3E3370872B6B6F1 to https://duhocsmartway.vn/?wordfence_lh=1&hid=26D4F1790E633F8AE3E3370872B6B6F1
+20:40:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/feed/ (from https://duhocsmartway.vn/)
+20:40:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/comments/feed/ (from https://duhocsmartway.vn/)
+20:40:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/trang-chu/feed/ (from https://duhocsmartway.vn/)
+20:40:12	Warning: 	Moved Permanently for https://duhocsmartway.vn/?wordfence_lh=1%26hid=26D4F1790E633F8AE3E3370872B6B6F1
+20:40:12	Warning: 	File has moved from https://duhocsmartway.vn/?wordfence_lh=1%26hid=26D4F1790E633F8AE3E3370872B6B6F1 to https://duhocsmartway.vn/?wordfence_lh=1%26hid%3D26D4F1790E633F8AE3E3370872B6B6F1
+20:40:17	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=53
+20:40:17	Warning: 	File has moved from https://duhocsmartway.vn/?p=53 to https://duhocsmartway.vn/gioi-thieu-smart-way/
+20:40:17	Warning: 	Retry after error -4 (No data (connection closed)) at link duhocsmartway.vn/?wordfence_lh=1&hid=E07FAF05883B20C34EC19E1CDF740F5E (from https://duhocsmartway.vn/gioi-thieu-smart-way/)
+20:40:19	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=65
+20:40:19	Warning: 	File has moved from https://duhocsmartway.vn/?p=65 to https://duhocsmartway.vn/du-hoc-dai-loan/
+20:40:19	Warning: 	Moved Permanently for duhocsmartway.vn/?wordfence_lh=1&hid=C93B8ED33ED58C55E70B3154235FAE20
+20:40:19	Warning: 	Redirected link is identical because of 'URL Hack' option: duhocsmartway.vn/?wordfence_lh=1&hid=C93B8ED33ED58C55E70B3154235FAE20 and https://duhocsmartway.vn/?wordfence_lh=1&hid=C93B8ED33ED58C55E70B3154235FAE20
+20:40:19	Warning: 	File has moved from duhocsmartway.vn/?wordfence_lh=1&hid=C93B8ED33ED58C55E70B3154235FAE20 to https://duhocsmartway.vn/?wordfence_lh=1&hid=C93B8ED33ED58C55E70B3154235FAE20
+20:40:19	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=440
+20:40:19	Warning: 	File has moved from https://duhocsmartway.vn/?p=440 to https://duhocsmartway.vn/du-hoc-dai-loan/he-vua-hoc-vua-lam/
+20:40:19	Warning: 	Moved Permanently for duhocsmartway.vn/?wordfence_lh=1&hid=F0E099FFE9975CD6152C07D8D84A36A1
+20:40:19	Warning: 	Redirected link is identical because of 'URL Hack' option: duhocsmartway.vn/?wordfence_lh=1&hid=F0E099FFE9975CD6152C07D8D84A36A1 and https://duhocsmartway.vn/?wordfence_lh=1&hid=F0E099FFE9975CD6152C07D8D84A36A1
+20:40:19	Warning: 	File has moved from duhocsmartway.vn/?wordfence_lh=1&hid=F0E099FFE9975CD6152C07D8D84A36A1 to https://duhocsmartway.vn/?wordfence_lh=1&hid=F0E099FFE9975CD6152C07D8D84A36A1
+20:40:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/wp-content/litespeed/css/32373016428c60af5555e0f7cee5f1ea.css?ver=40991 (from https://duhocsmartway.vn/du-hoc-dai-loan/he-1-4/)
+20:40:21	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=73
+20:40:21	Warning: 	File has moved from https://duhocsmartway.vn/?p=73 to https://duhocsmartway.vn/du-hoc-dai-loan/he-1-4/
+20:40:21	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=71
+20:40:21	Warning: 	File has moved from https://duhocsmartway.vn/?p=71 to https://duhocsmartway.vn/du-hoc-dai-loan/he-tu-tuc/
+20:40:21	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=67
+20:40:21	Warning: 	File has moved from https://duhocsmartway.vn/?p=67 to https://duhocsmartway.vn/du-hoc-dai-loan/he-ngon-ngu/
+20:40:21	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=69
+20:40:21	Warning: 	File has moved from https://duhocsmartway.vn/?p=69 to https://duhocsmartway.vn/du-hoc-dai-loan/du-hoc-he-cao-hoc/
+20:40:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/cam-nang-du-hoc/feed/ (from https://duhocsmartway.vn/cam-nang-du-hoc/)
+20:40:33	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/su-kien/feed/ (from https://duhocsmartway.vn/su-kien/)
+20:40:33	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=1622
+20:40:33	Warning: 	File has moved from https://duhocsmartway.vn/?p=1622 to https://duhocsmartway.vn/lien-he/
+20:40:33	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/kham-pha-chi-phi-di-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/kham-pha-chi-phi-di-du-hoc-dai-loan/)
+20:40:35	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3584
+20:40:35	Warning: 	File has moved from https://duhocsmartway.vn/?p=3584 to https://duhocsmartway.vn/kham-pha-chi-phi-di-du-hoc-dai-loan/
+20:40:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-khong/feed/ (from https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-khong/)
+20:40:39	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3576
+20:40:39	Warning: 	File has moved from https://duhocsmartway.vn/?p=3576 to https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-khong/
+20:40:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-2023-va-nhung-dieu-can-biet/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-2023-va-nhung-dieu-can-biet/)
+20:40:39	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3460
+20:40:39	Warning: 	File has moved from https://duhocsmartway.vn/?p=3460 to https://duhocsmartway.vn/du-hoc-dai-loan-2023-va-nhung-dieu-can-biet/
+20:40:39	Warning: 	Moved Permanently for https://duhocsmartway.vn/huong-dan-day-du-ve-ho-so-xin-visa-du-hoc-dai-loan/
+20:40:39	Warning: 	File has moved from https://duhocsmartway.vn/huong-dan-day-du-ve-ho-so-xin-visa-du-hoc-dai-loan/ to https://duhocsmartway.vn/huong-dan-lam-ho-so-xin-visa-du-hoc-dai-loan/
+20:40:50	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-nhung-gi/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-nhung-gi/)
+20:40:50	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3436
+20:40:50	Warning: 	File has moved from https://duhocsmartway.vn/?p=3436 to https://duhocsmartway.vn/di-du-hoc-dai-loan-can-nhung-gi/
+20:40:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan-tiet-kiem-chi-phi/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-nhung-gi/)
+20:40:50	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/thong-tin-chi-tiet-ve-du-hoc-dai-loan-he-ngon-ngu/feed/ (from https://duhocsmartway.vn/thong-tin-chi-tiet-ve-du-hoc-dai-loan-he-ngon-ngu/)
+20:40:52	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3425
+20:40:52	Warning: 	File has moved from https://duhocsmartway.vn/?p=3425 to https://duhocsmartway.vn/thong-tin-chi-tiet-ve-du-hoc-dai-loan-he-ngon-ngu/
+20:40:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-bang-tieng-anh/feed/ (from https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-bang-tieng-anh/)
+20:40:54	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3415
+20:40:54	Warning: 	File has moved from https://duhocsmartway.vn/?p=3415 to https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-bang-tieng-anh/
+20:40:54	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/huong-dan-chung-minh-tai-chinh-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-chung-minh-tai-chinh-du-hoc-dai-loan/)
+20:40:54	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3405
+20:40:54	Warning: 	File has moved from https://duhocsmartway.vn/?p=3405 to https://duhocsmartway.vn/huong-dan-chung-minh-tai-chinh-du-hoc-dai-loan/
+20:40:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tim-hieu-ve-xin-hoc-bong-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/tim-hieu-ve-xin-hoc-bong-du-hoc-dai-loan/)
+20:40:56	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3397
+20:40:56	Warning: 	File has moved from https://duhocsmartway.vn/?p=3397 to https://duhocsmartway.vn/tim-hieu-ve-xin-hoc-bong-du-hoc-dai-loan/
+20:40:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-smart-way-va-cam-xuc-tai-san-bay/feed/ (from https://duhocsmartway.vn/du-hoc-smart-way-va-cam-xuc-tai-san-bay/)
+20:40:56	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3592
+20:40:56	Warning: 	File has moved from https://duhocsmartway.vn/?p=3592 to https://duhocsmartway.vn/du-hoc-smart-way-va-cam-xuc-tai-san-bay/
+20:40:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/smart-way-tien-hoc-vien-ra-san-bay-du-hoc/feed/ (from https://duhocsmartway.vn/smart-way-tien-hoc-vien-ra-san-bay-du-hoc/)
+20:40:58	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3542
+20:40:58	Warning: 	File has moved from https://duhocsmartway.vn/?p=3542 to https://duhocsmartway.vn/smart-way-tien-hoc-vien-ra-san-bay-du-hoc/
+20:40:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/)
+20:41:02	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3524
+20:41:02	Warning: 	File has moved from https://duhocsmartway.vn/?p=3524 to https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/
+20:41:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/feed/ (from https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/)
+20:41:02	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3202
+20:41:02	Warning: 	File has moved from https://duhocsmartway.vn/?p=3202 to https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/
+20:41:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/smart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/smart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan/)
+20:41:03	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3036
+20:41:03	Warning: 	File has moved from https://duhocsmartway.vn/?p=3036 to https://duhocsmartway.vn/smart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan/
+20:41:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fduhocsmartway.vn%2Fsmart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan%2F (from https://duhocsmartway.vn/smart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan/)
+20:41:03	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/feed/ (from https://duhocsmartway.vn/)
+20:41:03	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/comments/feed/ (from https://duhocsmartway.vn/)
+20:41:03	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/trang-chu/feed/ (from https://duhocsmartway.vn/)
+20:41:03	Warning: 	Moved Permanently for duhocsmartway.vn/?wordfence_lh=1&hid=E07FAF05883B20C34EC19E1CDF740F5E
+20:41:03	Warning: 	Redirected link is identical because of 'URL Hack' option: duhocsmartway.vn/?wordfence_lh=1&hid=E07FAF05883B20C34EC19E1CDF740F5E and https://duhocsmartway.vn/?wordfence_lh=1&hid=E07FAF05883B20C34EC19E1CDF740F5E
+20:41:03	Warning: 	File has moved from duhocsmartway.vn/?wordfence_lh=1&hid=E07FAF05883B20C34EC19E1CDF740F5E to https://duhocsmartway.vn/?wordfence_lh=1&hid=E07FAF05883B20C34EC19E1CDF740F5E
+20:41:04	Warning: 	Moved Permanently for https://duhocsmartway.vn/?wordfence_lh=1%26hid=C93B8ED33ED58C55E70B3154235FAE20
+20:41:04	Warning: 	File has moved from https://duhocsmartway.vn/?wordfence_lh=1%26hid=C93B8ED33ED58C55E70B3154235FAE20 to https://duhocsmartway.vn/?wordfence_lh=1%26hid%3DC93B8ED33ED58C55E70B3154235FAE20
+20:41:06	Warning: 	Moved Permanently for https://duhocsmartway.vn/?wordfence_lh=1%26hid=F0E099FFE9975CD6152C07D8D84A36A1
+20:41:06	Warning: 	File has moved from https://duhocsmartway.vn/?wordfence_lh=1%26hid=F0E099FFE9975CD6152C07D8D84A36A1 to https://duhocsmartway.vn/?wordfence_lh=1%26hid%3DF0E099FFE9975CD6152C07D8D84A36A1
+20:41:11	Warning: 	Moved Permanently for https://duhocsmartway.vn/tin-tuc/page/1/
+20:41:11	Warning: 	File has moved from https://duhocsmartway.vn/tin-tuc/page/1/ to https://duhocsmartway.vn/tin-tuc/
+20:41:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/co-nen-di-du-hoc-dai-loan-vua-hoc-vua-lam/feed/ (from https://duhocsmartway.vn/co-nen-di-du-hoc-dai-loan-vua-hoc-vua-lam/)
+20:41:11	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3382
+20:41:11	Warning: 	File has moved from https://duhocsmartway.vn/?p=3382 to https://duhocsmartway.vn/co-nen-di-du-hoc-dai-loan-vua-hoc-vua-lam/
+20:41:11	Warning: 	Moved Permanently for https://duhocsmartway.vn/cam-nang-du-hoc/page/1/
+20:41:11	Warning: 	File has moved from https://duhocsmartway.vn/cam-nang-du-hoc/page/1/ to https://duhocsmartway.vn/cam-nang-du-hoc/
+20:41:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/cam-nang-du-hoc/feed/ (from https://duhocsmartway.vn/cam-nang-du-hoc/)
+20:41:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-nen-hoc-nganh-gi-de-xin-viec/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-nen-hoc-nganh-gi-de-xin-viec/)
+20:41:13	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3367
+20:41:13	Warning: 	File has moved from https://duhocsmartway.vn/?p=3367 to https://duhocsmartway.vn/du-hoc-dai-loan-nen-hoc-nganh-gi-de-xin-viec/
+20:41:13	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tim-hieu-ve-dieu-kien-di-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/tim-hieu-ve-dieu-kien-di-du-hoc-dai-loan/)
+20:41:15	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3358
+20:41:15	Warning: 	File has moved from https://duhocsmartway.vn/?p=3358 to https://duhocsmartway.vn/tim-hieu-ve-dieu-kien-di-du-hoc-dai-loan/
+20:41:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/di-du-hoc-dai-loan-nen-chon-truong-nao/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-nen-chon-truong-nao/)
+20:41:15	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3346
+20:41:15	Warning: 	File has moved from https://duhocsmartway.vn/?p=3346 to https://duhocsmartway.vn/di-du-hoc-dai-loan-nen-chon-truong-nao/
+20:41:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/su-kien/feed/ (from https://duhocsmartway.vn/su-kien/)
+20:41:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/kham-pha-chi-phi-di-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/kham-pha-chi-phi-di-du-hoc-dai-loan/)
+20:41:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-bao-nhieu-tien/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-bao-nhieu-tien/)
+20:41:21	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3339
+20:41:21	Warning: 	File has moved from https://duhocsmartway.vn/?p=3339 to https://duhocsmartway.vn/di-du-hoc-dai-loan-can-bao-nhieu-tien/
+20:41:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-mang-theo-nhung-gi/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-mang-theo-nhung-gi/)
+20:41:26	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3287
+20:41:26	Warning: 	File has moved from https://duhocsmartway.vn/?p=3287 to https://duhocsmartway.vn/di-du-hoc-dai-loan-can-mang-theo-nhung-gi/
+20:41:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-khong/feed/ (from https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-khong/)
+20:41:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-2023-va-nhung-dieu-can-biet/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-2023-va-nhung-dieu-can-biet/)
+20:41:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-nganh-tham-my-lam-dep/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-nganh-tham-my-lam-dep/)
+20:41:27	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3300
+20:41:27	Warning: 	File has moved from https://duhocsmartway.vn/?p=3300 to https://duhocsmartway.vn/du-hoc-dai-loan-nganh-tham-my-lam-dep/
+20:41:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-co-nganh-gi/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-co-nganh-gi/)
+20:41:27	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3276
+20:41:27	Warning: 	File has moved from https://duhocsmartway.vn/?p=3276 to https://duhocsmartway.vn/du-hoc-dai-loan-co-nganh-gi/
+20:41:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/he-14-du-hoc-dai-loan-la-gi/feed/ (from https://duhocsmartway.vn/he-14-du-hoc-dai-loan-la-gi/)
+20:41:31	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=2232
+20:41:31	Warning: 	File has moved from https://duhocsmartway.vn/?p=2232 to https://duhocsmartway.vn/he-14-du-hoc-dai-loan-la-gi/
+20:41:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-he-hoa-kieu/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-he-hoa-kieu/)
+20:41:32	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3254
+20:41:32	Warning: 	File has moved from https://duhocsmartway.vn/?p=3254 to https://duhocsmartway.vn/du-hoc-dai-loan-he-hoa-kieu/
+20:41:32	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/chia-se-kinh-nghiem-di-du-hoc-cap-3-tai-dai-loan/feed/ (from https://duhocsmartway.vn/chia-se-kinh-nghiem-di-du-hoc-cap-3-tai-dai-loan/)
+20:41:32	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3234
+20:41:32	Warning: 	File has moved from https://duhocsmartway.vn/?p=3234 to https://duhocsmartway.vn/chia-se-kinh-nghiem-di-du-hoc-cap-3-tai-dai-loan/
+20:41:33	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/chi-phi-du-hoc-dai-loan-he-ngon-ngu/feed/ (from https://duhocsmartway.vn/chi-phi-du-hoc-dai-loan-he-ngon-ngu/)
+20:41:33	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=2227
+20:41:33	Warning: 	File has moved from https://duhocsmartway.vn/?p=2227 to https://duhocsmartway.vn/chi-phi-du-hoc-dai-loan-he-ngon-ngu/
+20:41:33	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/kham-pha-chi-phi-du-hoc-dai-loan-vua-hoc-vua-lam/feed/ (from https://duhocsmartway.vn/kham-pha-chi-phi-du-hoc-dai-loan-vua-hoc-vua-lam/)
+20:41:37	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3242
+20:41:37	Warning: 	File has moved from https://duhocsmartway.vn/?p=3242 to https://duhocsmartway.vn/kham-pha-chi-phi-du-hoc-dai-loan-vua-hoc-vua-lam/
+20:41:37	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-nhung-gi/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-nhung-gi/)
+20:41:38	Warning: 	Moved Permanently for https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan-tiet-kiem-chi-phi/
+20:41:38	Warning: 	File has moved from https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan-tiet-kiem-chi-phi/ to https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan/
+20:41:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/thong-tin-chi-tiet-ve-du-hoc-dai-loan-he-ngon-ngu/feed/ (from https://duhocsmartway.vn/thong-tin-chi-tiet-ve-du-hoc-dai-loan-he-ngon-ngu/)
+20:41:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-bang-tieng-anh/feed/ (from https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-bang-tieng-anh/)
+20:41:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/huong-dan-chung-minh-tai-chinh-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-chung-minh-tai-chinh-du-hoc-dai-loan/)
+20:41:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan/)
+20:41:39	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3327
+20:41:39	Warning: 	File has moved from https://duhocsmartway.vn/?p=3327 to https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan/
+20:41:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tim-hieu-ve-xin-hoc-bong-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/tim-hieu-ve-xin-hoc-bong-du-hoc-dai-loan/)
+20:41:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-smart-way-va-cam-xuc-tai-san-bay/feed/ (from https://duhocsmartway.vn/du-hoc-smart-way-va-cam-xuc-tai-san-bay/)
+20:41:41	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/smart-way-tien-hoc-vien-ra-san-bay-du-hoc/feed/ (from https://duhocsmartway.vn/smart-way-tien-hoc-vien-ra-san-bay-du-hoc/)
+20:41:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/)
+20:41:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/feed/ (from https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/)
+20:41:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/smart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/smart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan/)
+20:41:44	Warning: 	Moved Permanently for https://duhocsmartway.vn/?wordfence_lh=1%26hid=E07FAF05883B20C34EC19E1CDF740F5E
+20:41:44	Warning: 	File has moved from https://duhocsmartway.vn/?wordfence_lh=1%26hid=E07FAF05883B20C34EC19E1CDF740F5E to https://duhocsmartway.vn/?wordfence_lh=1%26hid%3DE07FAF05883B20C34EC19E1CDF740F5E
+20:41:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/?wordfence_lh=1%26hid%3DF0E099FFE9975CD6152C07D8D84A36A1 (from https://duhocsmartway.vn/?wordfence_lh=1%26hid=F0E099FFE9975CD6152C07D8D84A36A1)
+20:41:47	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/huong-dan-lam-ho-so-xin-visa-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-lam-ho-so-xin-visa-du-hoc-dai-loan/)
+20:41:47	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3316
+20:41:47	Warning: 	File has moved from https://duhocsmartway.vn/?p=3316 to https://duhocsmartway.vn/huong-dan-lam-ho-so-xin-visa-du-hoc-dai-loan/
+20:41:47	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/bi-kip-auto-pass-buoi-phong-van-voi-cac-truong-dai-loan/feed/ (from https://duhocsmartway.vn/bi-kip-auto-pass-buoi-phong-van-voi-cac-truong-dai-loan/)
+20:41:49	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3264
+20:41:49	Warning: 	File has moved from https://duhocsmartway.vn/?p=3264 to https://duhocsmartway.vn/bi-kip-auto-pass-buoi-phong-van-voi-cac-truong-dai-loan/
+20:41:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/co-nen-di-du-hoc-dai-loan-vua-hoc-vua-lam/feed/ (from https://duhocsmartway.vn/co-nen-di-du-hoc-dai-loan-vua-hoc-vua-lam/)
+20:41:50	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/cam-nang-du-hoc/feed/ (from https://duhocsmartway.vn/cam-nang-du-hoc/)
+20:41:50	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-nen-hoc-nganh-gi-de-xin-viec/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-nen-hoc-nganh-gi-de-xin-viec/)
+20:41:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tim-hieu-ve-dieu-kien-di-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/tim-hieu-ve-dieu-kien-di-du-hoc-dai-loan/)
+20:41:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/di-du-hoc-dai-loan-nen-chon-truong-nao/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-nen-chon-truong-nao/)
+20:41:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/wp-includes/css/dashicons.min.css?ver=6.7.1 (from https://duhocsmartway.vn/wp-login.php?redirect_to=https%3A%2F%2Fduhocsmartway.vn%2Fwp-admin%2Fpost.php%3Fpost%3D3346%26action%3Dedit&reauth=1)
+20:41:56	Warning: 	Moved Permanently for duhocsmartway.vn/?wordfence_lh=1&hid=38CC39CF1740FA105DC18875B1F0D729
+20:41:56	Warning: 	Redirected link is identical because of 'URL Hack' option: duhocsmartway.vn/?wordfence_lh=1&hid=38CC39CF1740FA105DC18875B1F0D729 and https://duhocsmartway.vn/?wordfence_lh=1&hid=38CC39CF1740FA105DC18875B1F0D729
+20:41:56	Warning: 	File has moved from duhocsmartway.vn/?wordfence_lh=1&hid=38CC39CF1740FA105DC18875B1F0D729 to https://duhocsmartway.vn/?wordfence_lh=1&hid=38CC39CF1740FA105DC18875B1F0D729
+20:41:57	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/su-kien/feed/ (from https://duhocsmartway.vn/su-kien/)
+20:41:57	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/kham-pha-chi-phi-di-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/kham-pha-chi-phi-di-du-hoc-dai-loan/)
+20:41:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-bao-nhieu-tien/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-bao-nhieu-tien/)
+20:41:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-mang-theo-nhung-gi/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-mang-theo-nhung-gi/)
+20:41:59	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-khong/feed/ (from https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-khong/)
+20:41:59	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/du-hoc-dai-loan-2023-va-nhung-dieu-can-biet/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-2023-va-nhung-dieu-can-biet/)
+20:41:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/du-hoc-dai-loan-nganh-tham-my-lam-dep/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-nganh-tham-my-lam-dep/)
+20:42:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-co-nganh-gi/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-co-nganh-gi/)
+20:42:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/he-14-du-hoc-dai-loan-la-gi/feed/ (from https://duhocsmartway.vn/he-14-du-hoc-dai-loan-la-gi/)
+20:42:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/du-hoc-dai-loan-he-hoa-kieu/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-he-hoa-kieu/)
+20:42:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/chia-se-kinh-nghiem-di-du-hoc-cap-3-tai-dai-loan/feed/ (from https://duhocsmartway.vn/chia-se-kinh-nghiem-di-du-hoc-cap-3-tai-dai-loan/)
+20:42:04	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/chi-phi-du-hoc-dai-loan-he-ngon-ngu/feed/ (from https://duhocsmartway.vn/chi-phi-du-hoc-dai-loan-he-ngon-ngu/)
+20:42:04	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/kham-pha-chi-phi-du-hoc-dai-loan-vua-hoc-vua-lam/feed/ (from https://duhocsmartway.vn/kham-pha-chi-phi-du-hoc-dai-loan-vua-hoc-vua-lam/)
+20:42:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-nhung-gi/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-nhung-gi/)
+20:42:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/thong-tin-chi-tiet-ve-du-hoc-dai-loan-he-ngon-ngu/feed/ (from https://duhocsmartway.vn/thong-tin-chi-tiet-ve-du-hoc-dai-loan-he-ngon-ngu/)
+20:42:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-bang-tieng-anh/feed/ (from https://duhocsmartway.vn/lieu-co-nen-di-du-hoc-dai-loan-bang-tieng-anh/)
+20:42:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/huong-dan-chung-minh-tai-chinh-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-chung-minh-tai-chinh-du-hoc-dai-loan/)
+20:42:05	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan/)
+20:42:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/tim-hieu-ve-xin-hoc-bong-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/tim-hieu-ve-xin-hoc-bong-du-hoc-dai-loan/)
+20:42:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/du-hoc-smart-way-va-cam-xuc-tai-san-bay/feed/ (from https://duhocsmartway.vn/du-hoc-smart-way-va-cam-xuc-tai-san-bay/)
+20:42:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/smart-way-tien-hoc-vien-ra-san-bay-du-hoc/feed/ (from https://duhocsmartway.vn/smart-way-tien-hoc-vien-ra-san-bay-du-hoc/)
+20:42:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/)
+20:42:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/feed/ (from https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/)
+20:42:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/smart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/smart-way-noi-gui-gam-uoc-mo-du-hoc-dai-loan/)
+20:42:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/huong-dan-lam-ho-so-xin-visa-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-lam-ho-so-xin-visa-du-hoc-dai-loan/)
+20:42:07	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/bi-kip-auto-pass-buoi-phong-van-voi-cac-truong-dai-loan/feed/ (from https://duhocsmartway.vn/bi-kip-auto-pass-buoi-phong-van-voi-cac-truong-dai-loan/)
+20:42:09	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/co-nen-di-du-hoc-dai-loan-vua-hoc-vua-lam/feed/ (from https://duhocsmartway.vn/co-nen-di-du-hoc-dai-loan-vua-hoc-vua-lam/)
+20:42:09	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/du-hoc-dai-loan-nen-hoc-nganh-gi-de-xin-viec/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-nen-hoc-nganh-gi-de-xin-viec/)
+20:42:09	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/tim-hieu-ve-dieu-kien-di-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/tim-hieu-ve-dieu-kien-di-du-hoc-dai-loan/)
+20:42:09	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/di-du-hoc-dai-loan-nen-chon-truong-nao/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-nen-chon-truong-nao/)
+20:42:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/wp-includes/css/dashicons.min.css?ver=6.7.1 (from https://duhocsmartway.vn/wp-login.php?redirect_to=https%3A%2F%2Fduhocsmartway.vn%2Fwp-admin%2Fpost.php%3Fpost%3D3346%26action%3Dedit&reauth=1)
+20:42:10	Warning: 	Moved Permanently for https://duhocsmartway.vn/?wordfence_lh=1%26hid=38CC39CF1740FA105DC18875B1F0D729
+20:42:10	Warning: 	File has moved from https://duhocsmartway.vn/?wordfence_lh=1%26hid=38CC39CF1740FA105DC18875B1F0D729 to https://duhocsmartway.vn/?wordfence_lh=1%26hid%3D38CC39CF1740FA105DC18875B1F0D729
+20:42:10	Warning: 	Moved Permanently for duhocsmartway.vn/?wordfence_lh=1&hid=7168EC3D37B36D3072FAE5DFCE0AE4C7
+20:42:10	Warning: 	Redirected link is identical because of 'URL Hack' option: duhocsmartway.vn/?wordfence_lh=1&hid=7168EC3D37B36D3072FAE5DFCE0AE4C7 and https://duhocsmartway.vn/?wordfence_lh=1&hid=7168EC3D37B36D3072FAE5DFCE0AE4C7
+20:42:10	Warning: 	File has moved from duhocsmartway.vn/?wordfence_lh=1&hid=7168EC3D37B36D3072FAE5DFCE0AE4C7 to https://duhocsmartway.vn/?wordfence_lh=1&hid=7168EC3D37B36D3072FAE5DFCE0AE4C7
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-bao-nhieu-tien/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-bao-nhieu-tien/)
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/di-du-hoc-dai-loan-can-mang-theo-nhung-gi/feed/ (from https://duhocsmartway.vn/di-du-hoc-dai-loan-can-mang-theo-nhung-gi/)
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/du-hoc-dai-loan-nganh-tham-my-lam-dep/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-nganh-tham-my-lam-dep/)
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/du-hoc-dai-loan-co-nganh-gi/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-co-nganh-gi/)
+20:42:11	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/he-14-du-hoc-dai-loan-la-gi/feed/ (from https://duhocsmartway.vn/he-14-du-hoc-dai-loan-la-gi/)
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/du-hoc-dai-loan-he-hoa-kieu/feed/ (from https://duhocsmartway.vn/du-hoc-dai-loan-he-hoa-kieu/)
+20:42:11	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/chia-se-kinh-nghiem-di-du-hoc-cap-3-tai-dai-loan/feed/ (from https://duhocsmartway.vn/chia-se-kinh-nghiem-di-du-hoc-cap-3-tai-dai-loan/)
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/chi-phi-du-hoc-dai-loan-he-ngon-ngu/feed/ (from https://duhocsmartway.vn/chi-phi-du-hoc-dai-loan-he-ngon-ngu/)
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/kham-pha-chi-phi-du-hoc-dai-loan-vua-hoc-vua-lam/feed/ (from https://duhocsmartway.vn/kham-pha-chi-phi-du-hoc-dai-loan-vua-hoc-vua-lam/)
+20:42:11	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-tu-lam-ho-so-du-hoc-dai-loan/)
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/huong-dan-lam-ho-so-xin-visa-du-hoc-dai-loan/feed/ (from https://duhocsmartway.vn/huong-dan-lam-ho-so-xin-visa-du-hoc-dai-loan/)
+20:42:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/bi-kip-auto-pass-buoi-phong-van-voi-cac-truong-dai-loan/feed/ (from https://duhocsmartway.vn/bi-kip-auto-pass-buoi-phong-van-voi-cac-truong-dai-loan/)
+20:42:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://duhocsmartway.vn/?wordfence_lh=1%26hid%3D38CC39CF1740FA105DC18875B1F0D729 (from https://duhocsmartway.vn/?wordfence_lh=1%26hid=38CC39CF1740FA105DC18875B1F0D729)
+20:42:11	Warning: 	Moved Permanently for https://duhocsmartway.vn/?wordfence_lh=1%26hid=7168EC3D37B36D3072FAE5DFCE0AE4C7
+20:42:11	Warning: 	File has moved from https://duhocsmartway.vn/?wordfence_lh=1%26hid=7168EC3D37B36D3072FAE5DFCE0AE4C7 to https://duhocsmartway.vn/?wordfence_lh=1%26hid%3D7168EC3D37B36D3072FAE5DFCE0AE4C7
+20:42:11	Warning: 	Moved Permanently for duhocsmartway.vn/?wordfence_lh=1&hid=5A7519BE492D3D3D494F389AA1F31F26
+20:42:11	Warning: 	Redirected link is identical because of 'URL Hack' option: duhocsmartway.vn/?wordfence_lh=1&hid=5A7519BE492D3D3D494F389AA1F31F26 and https://duhocsmartway.vn/?wordfence_lh=1&hid=5A7519BE492D3D3D494F389AA1F31F26
+20:42:11	Warning: 	File has moved from duhocsmartway.vn/?wordfence_lh=1&hid=5A7519BE492D3D3D494F389AA1F31F26 to https://duhocsmartway.vn/?wordfence_lh=1&hid=5A7519BE492D3D3D494F389AA1F31F26
+20:42:12	Warning: 	Moved Permanently for https://duhocsmartway.vn/?wordfence_lh=1%26hid=5A7519BE492D3D3D494F389AA1F31F26
+20:42:12	Warning: 	File has moved from https://duhocsmartway.vn/?wordfence_lh=1%26hid=5A7519BE492D3D3D494F389AA1F31F26 to https://duhocsmartway.vn/?wordfence_lh=1%26hid%3D5A7519BE492D3D3D494F389AA1F31F26
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 4 seconds : 493 links scanned, 325 files written (38281649 bytes overall) [25538825 bytes received at 104667 bytes/sec], 18849656 bytes transferred using HTTP compression in 335 files, ratio 30%, 5.5 requests per connection
+(35 errors, 193 warnings, 0 messages)

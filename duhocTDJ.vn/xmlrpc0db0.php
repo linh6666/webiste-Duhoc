@@ -1,15 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
-	<service>
-		<engineName>WordPress</engineName>
-		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://duhocsmartway.vn</homePageLink>
-		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://duhocsmartway.vn/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://duhocsmartway.vn/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://duhocsmartway.vn/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://duhocsmartway.vn/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://duhocsmartway.vn/wp-json/" />
-			</apis>
-	</service>
+<?xml version="1.0" encoding="UTF-8"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+  <service>
+    <engineName>WordPress</engineName>
+    <engineLink>https://wordpress.org/</engineLink>
+    <homePageLink>https://duhoctdj.vn</homePageLink>
+    <apis>
+      <api name="WordPress" blogID="1" preferred="true" apiLink="https://duhoctdj.vn/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://duhoctdj.vn/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://duhoctdj.vn/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="https://duhoctdj.vn/xmlrpc.php" />
+      <api name="WP-API" blogID="1" preferred="false" apiLink="https://duhoctdj.vn/wp-json/" />
+    </apis>
+  </service>
 </rsd>
+
 	

@@ -156,11 +156,11 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 20:40:58	Warning: 	File has moved from https://duhocsmartway.vn/?p=3542 to https://duhocsmartway.vn/TDJ-tien-hoc-vien-ra-san-bay-du-hoc/
 
-20:40:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/)
+20:40:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-TDJ/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-TDJ/)
 
 20:41:02	Warning: 	Moved Permanently for https://duhocsmartway.vn/?p=3524
 
-20:41:02	Warning: 	File has moved from https://duhocsmartway.vn/?p=3524 to https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/
+20:41:02	Warning: 	File has moved from https://duhocsmartway.vn/?p=3524 to https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-TDJ/
 
 20:41:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/feed/ (from https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/)
 
@@ -316,7 +316,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 20:41:41	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/TDJ-tien-hoc-vien-ra-san-bay-du-hoc/feed/ (from https://duhocsmartway.vn/TDJ-tien-hoc-vien-ra-san-bay-du-hoc/)
 
-20:41:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/)
+20:41:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-TDJ/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-TDJ/)
 
 20:41:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/feed/ (from https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/)
 
@@ -400,7 +400,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 20:42:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/TDJ-tien-hoc-vien-ra-san-bay-du-hoc/feed/ (from https://duhocsmartway.vn/TDJ-tien-hoc-vien-ra-san-bay-du-hoc/)
 
-20:42:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-smart-way/)
+20:42:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-TDJ/feed/ (from https://duhocsmartway.vn/tiec-chia-tay-hoc-vien-du-hoc-thang-9-cua-TDJ/)
 
 20:42:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/feed/ (from https://duhocsmartway.vn/nhung-hinh-anh-trong-buoi-thi-tocfl-ngay-23-7/)
 

@@ -9368,3 +9368,8 @@ li.wc-layered-nav-rating .star-rating {
 .stars a.star-5:after {
   content: "";
 }
+table,
+th,
+td {
+  border: 1px solid black;
+}
